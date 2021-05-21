@@ -1,0 +1,5 @@
+name: Team awesome's approval workflow
+
+on: [pull_request_review]
+
+uses: abinoda/label-when-approved-action@1.0.5
